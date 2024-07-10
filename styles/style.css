@@ -284,6 +284,26 @@ height: 57px;
 border-radius: 8px;
 background: rgb(255, 255, 255);
 }
+.feet{
+    width: 1440px;
+height: 100px;
+left: 0;
+top: 5145px;
+padding: 32px 150px 32px 150px;
+display: flex;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.03);
+}
+
+#step{
+width: 157.01px;
+height: 36px;
+display: flex;
+flex-direction: row;
+margin: 0 auto;
+align-content: center;
+
+}
 
 
     
